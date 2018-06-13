@@ -1,0 +1,31 @@
+body {
+  background-image: url("images/art-background-blank-951240.jpg");
+  font-family: 'Comfortaa', cursive;
+}
+.about {
+  background-color: rgba(105,105,105,.8);
+  font-size: 20px;
+  color: rgb(194, 192, 192);
+  font-family: 'Spectral', serif;
+}
+.about p {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.about img {
+  width: 250px;
+  height: 330px;
+  margin-right: 10px;
+  margin-bottom: 5px;
+  float:left;
+}
+
+footer {
+  text-align: center;
+  background: rgba(105, 105, 105, 0.5);
+  padding: 10px;
+  color: white;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
