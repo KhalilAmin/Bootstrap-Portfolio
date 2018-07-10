@@ -19,6 +19,9 @@ body {
   margin-bottom: 5px;
   float:left;
 }
+.clearfix {
+  overflow: auto;
+}
 
 footer {
   text-align: center;
