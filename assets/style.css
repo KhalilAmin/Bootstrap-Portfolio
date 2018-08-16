@@ -23,6 +23,22 @@ body {
   overflow: auto;
 }
 
+.contactMe{
+  background-color: rgba(105,105,105,.8);
+  font-size: 20px;
+  color: rgb(194, 192, 192);
+  font-family: 'Spectral', serif;
+  padding: 15px;
+}
+
+#contact-form {
+  max-width: 50%;
+}
+
+#sendEmail {
+  margin-top: 15px;
+}
+
 footer {
   text-align: center;
   background: rgba(105, 105, 105, 0.5);
